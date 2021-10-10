@@ -1,0 +1,121 @@
+:root { 
+  --azure: #30679c;
+  --black: #000000;
+  --cararra: #ebebeb;
+  --dove-gray: #707070;
+  --gray-suit: #c0bdcc;
+  --link-water: #daebfb;
+  --magnolia: #f6efff;
+  --purple-heart: #6149cd;
+  --rhino: #333864;
+  --shadow-blue: #7a86a1;
+  --storm-dust: #656565;
+  --white: #ffffff;
+ 
+  --font-size-l: 15px;
+  --font-size-m: 14px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 24px;
+  --font-size-xxxxl: 25px;
+  --font-size-xxxxxl: 48px;
+ 
+  --font-family-fs_albert_arabic_web: "FS Albert Arabic Web", Helvetica;
+  --font-family-fsalbert_arabic_web-bold: "FSAlbert Arabic Web-Bold", Helvetica;
+  --font-family-manrope: "Manrope", Helvetica;
+}
+.fsalbertarabicweb-bold-rhino-14px {
+  color: var(--rhino);
+  font-family: var(--font-family-fsalbert_arabic_web-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fsalbertarabicweb-bold-shadow-blue-14px {
+  color: var(--shadow-blue);
+  font-family: var(--font-family-fsalbert_arabic_web-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fsalbertarabicweb-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-fsalbert_arabic_web-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fsalbertarabicweb-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-fsalbert_arabic_web-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fsalbertarabicweb-bold-azure-14px {
+  color: var(--azure);
+  font-family: var(--font-family-fsalbert_arabic_web-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fsalbertarabicweb-bold-storm-dust-24px {
+  color: var(--storm-dust);
+  font-family: var(--font-family-fsalbert_arabic_web-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fsalbertarabicweb-bold-black-48px {
+  color: var(--black);
+  font-family: var(--font-family-fsalbert_arabic_web-bold);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fsalbertarabicweb-bold-shadow-blue-15px {
+  color: var(--shadow-blue);
+  font-family: var(--font-family-fsalbert_arabic_web-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fsalbertarabicweb-bold-rhino-15px {
+  color: var(--rhino);
+  font-family: var(--font-family-fsalbert_arabic_web-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.manrope-semi-bold-gray-suit-14px {
+  color: var(--gray-suit);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+
+.border-2px-white {
+  border: 2px solid var(--white);
+}
+
+.border-1px-azure {
+  border: 1px solid var(--azure);
+}
+
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
